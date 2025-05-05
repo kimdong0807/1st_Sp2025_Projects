@@ -23,12 +23,7 @@ SeD 여러분, 중간고사 정말 수고 많으셨습니다! 🙌
 |--------------|------|
 | **05.05(월) 19:00** | 공대 8호관 502호 강의실 **집결 & 규칙 안내** |
 | **05.05(월) 23:00** | **야식 시간 🍜** |
-| **05.06(화) 06:00** | **산출물 & GitHub 제출 마감**
-<br>• 제출 경로: Github의 "SeD-Analytics/Dataton/{각팀명}/" 
-<br>• 산출물(Board) 제출 양식: "SeD_1st_Dataton_{Teamname}.pptx"
-<br>• Code 제출 양식: "SeD_1st_Dataton_{Teamname}.ipynb"
-<br>• 최소 포함 항목:<br> - 프로젝트 주제<br> - 데이터셋<br> - 사용 방법론<br> - 도출 인사이트
-<br>• **가점 요소**:<br> - 세부 EDA<br> - 모델 적용 및 검증<br> - 개선 방안 |
+| **05.06(화) 06:00** | **산출물 & GitHub 제출 마감** <br>• 제출 경로: Github의 "SeD-Analytics/Dataton/{각팀명}/" <br>• 산출물(Board) 제출 양식: "SeD_1st_Dataton_{Teamname}.pptx" <br>• Code 제출 양식: "SeD_1st_Dataton_{Teamname}.ipynb" <br>• 최소 포함 항목:<br> - 프로젝트 주제<br> - 데이터셋<br> - 사용 방법론<br> - 도출 인사이트 <br>• **가점 요소**:<br> - 세부 EDA<br> - 모델 적용 및 검증<br> - 개선 방안 |
 | **05.06(화) 06:30** | **팀별 보드 발표 (5분)** + **개별 투표(Google Form)**<br>→ 투표 결과로 **차주 발표 우선 순위** 선정 |
 | **05.06(화) 07:30** | **귀가 🏡💤** |
 
