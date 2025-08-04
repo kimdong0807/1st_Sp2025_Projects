@@ -58,8 +58,8 @@
 ## 📁 Repository 구조
 
 ```bash
-1st_Sp2025_Projects/
-├── Dataton/
+ShallweData/
+├── 1st_Sp2025_Projects/
 │   ├── DatEZ/
 │   ├── JDG/
 │   ├── SDT/
