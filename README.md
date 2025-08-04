@@ -58,10 +58,10 @@
 ## 📁 Repository 구조
 
 ```bash
-SeD-Analytics/
+1st_Sp2025_Projects/
 ├── Dataton/
-│   ├── Team.DatEZ/
-│   ├── Team.JDG/
-│   ├── Team.SDT/
-│   └── Team.다문화/
+│   ├── DatEZ/
+│   ├── JDG/
+│   ├── SDT/
+│   └── 다문화/
 └── README.md  ← (현재 문서)
